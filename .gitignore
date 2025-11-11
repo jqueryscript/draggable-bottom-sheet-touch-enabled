@@ -4,8 +4,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Distribution files
-dist/
 
 # IDE files
 .vscode/
