@@ -91,3 +91,6 @@ typings/
 
 # Serverless directories
 .serverless
+
+# Claude Code files
+.claude/
