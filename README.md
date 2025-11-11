@@ -15,7 +15,11 @@ A modern, touch-enabled draggable bottom sheet modal component built with vanill
 
 ## 🚀 Demo
 
-Try the live demo here: [https://codepen.io/iqq800/pen/QwNWrzE](https://codepen.io/iqq800/pen/QwNWrzE)
+Try the live demo here: [https://www.cssscript.com/demo/touch-enabled-bottom-sheet](https://www.cssscript.com/demo/touch-enabled-bottom-sheet)
+
+## 📝 Article
+
+Read the complete article and tutorial: [https://www.cssscript.com/touch-enabled-bottom-sheet/](https://www.cssscript.com/touch-enabled-bottom-sheet/)
 
 ## 📁 Project Structure
 
